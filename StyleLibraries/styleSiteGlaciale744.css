@@ -1,0 +1,93 @@
+body{margin:0px;background-color:#ffffff;font-family:Arial,Tahoma;font-size:1em;}
+a:link{color:#0f0f0f;text-decoration:none}
+a:visited{color:#0f0f0f;text-decoration:none}
+a:hover{color:#0f0f0f;text-decoration:none}
+a:active{color:#0f0f0f;text-decoration:none}
+a:focus{outline-style:none;}
+td{font-size:13px;line-height:15pt;letter-spacing:0px;font-family:'微軟正黑體',Arial,sans-serif;color:#161616;cursor:default}
+td.stage-issus{height:100%;background-color:#f0f0f0;vertical-align:top;}
+.ClsCalibri{font-size:17px;color:#0f0f0f;font-family:Calibri,Tahoma;line-height:16pt}
+.ClsTrebuchet{font-size:12px;color:#0f0f0f;font-family:"Trebuchet MS",Verdana,Tahoma,Arial;}
+.ClsDefault{font-size:13px;color:#0f0f0f;font-family:Tahoma,Microsoft Sans Serif,Verdana,Arial}
+.ClsKitsTxt{font-size:13px;color:#3F3F3F;font-family:Verdana,Tahoma;line-height:normal}
+.ClsTimeRoman{font-size:12px;color:#0f0f0f;font-family:"Times New Roman",Tahoma,Arial;}
+.ClsMicroTxt{font-size:12px;color:#1f1f1f;font-family:"Microsoft Sans Serif";line-height:12pt;}
+.ClsMidTxt{font-size:12px;color:#0f0f0f;font-family:Arial,sans-serif;line-height:12pt;}
+.ClsSmallTxt{font-size:11px;color:#0f0f0f;font-family:Arial,sans-serif;line-height:12pt;}
+.ClsQuickNew{font-size:15px;color:#0f0f0f;font-family:微軟正黑體,Arial,sans-serif;font-weight:Bold}
+.ClsQuickNew a:link{color:#336699;text-decoration:underline}
+.ClsQuickNew a:visited{color:#336699;text-decoration:underline}
+.ClsQuickNew a:hover{color:#CC3300;text-decoration:underline}
+.ClsQuickNew a:active{color:#CC3300;text-decoration:underline}
+.itemDottedLink{font-size:13px;font-family:微軟正黑體,Arial,sans-serif;color:#1f1f1f;line-height:normal}
+.itemDottedLink a:link{color:#FFBB00;border-bottom:1px dotted #42A9E0}
+.itemDottedLink a:visited{color:#FFBB00;border-bottom:1px dotted #42A9E0}
+.itemDottedLink a:hover{color:#FF9000;border-bottom:1px solid #FF7700}
+.itemDottedLink a:active{color:#FF9000;border-bottom:1px solid #CC3300}
+.itemUnderLink{font-size:13px;font-family:微軟正黑體,Arial,sans-serif;color:#0f0f0f;line-height:15pt}
+.itemUnderLink a:link{color:#FFCC00;text-decoration:underline}
+.itemUnderLink a:visited{color:#FFCC00;text-decoration:underline}
+.itemUnderLink a:hover{color:#FF9000;text-decoration:underline}
+.itemUnderLink a:active{color:#FF9000;text-decoration:underline}
+.itemBasicLink{font-size:13px;font-family:微軟正黑體,Arial,sans-serif;color:#0f0f0f;line-height:15pt}
+.itemBasicLink a:link{color:#0f0f0f;text-decoration:none}
+.itemBasicLink a:visited{color:#0f0f0f;text-decoration:none}
+.itemBasicLink a:hover{color:#FF9000;text-decoration:underline}
+.itemBasicLink a:active{color:#FF9000;text-decoration:underline}
+.setsVerticalAlines{img.vertical-align:middle;}
+.inputContactUsDivision{height:25px;font-size:13px;font-family:微軟正黑體,Arial,sans-serif;color:#0f0f0f;background-color:#F3F3F3;border:1px Solid #9999AA;}
+.inputContactUsTextarea{font-size:13px;font-family:微軟正黑體,Arial,sans-serif;color:#0f0f0f;background-color:#EFEFEF;border:1px Solid #BFBFBF;}
+.inputContactUsAddress{font-size:13px;font-family:微軟正黑體,新細明體,Verdana,Tahoma,Arial;color:#1f1f1f;background-color:#EFEFEF;}
+.inputDataDivision{height:24px;font-size:13px;font-family:微軟正黑體,Arial,sans-serif;color:#0f0f0f;background-color:#ffffff;border:1px Solid #9999AA;}
+.inputDataSelection{font-size:13px;font-family:微軟正黑體,Tahoma,Verdana;color:#0f0f0f;background-color:#ffffff;border:1px Solid #9999AA;}
+.inputDataTextarea{font-size:12px;font-family:微軟正黑體,Arial,sans-serif;color:#0f0f0f;background-color:#ffffff;border-left:1px Solid #CFCFCF;border-right:0px Solid #CFCFCF;border-top:1px Solid #CFCFCF;border-bottom:1px Solid #CFCFCF}
+.chrSearchHighlight{color:#008ECC;font-weight:Bold}
+.toolBarStyle{Padding-left:3px;Padding-right:3px;Padding-top:25px;Padding-bottom:5px;border-top:1px solid #8F8F8F;border-left:1px solid #8F8F8F;border-right:1px solid #8F8F8F;background-image:url('../images/RichTextIcons/backgroundSilver.gif')}
+.buttonOut{width:20px;height:20px;border:1px solid transparent;margin:1px;padding:0px;background:transparent;}
+.buttonOver{width:20px;height:20px;border:1px solid #FFCC00;margin:1px;padding:0px;background:transparent;}
+.dropdown{background-color:#F5F5F5;border:1px solid #333333;overflow:auto;padding:2px;display:none}
+button.mouseOver{background-color:#FFF7CC;border:1px solid #FFCC00;cursor:default;text-align:left;}
+button.mouseOut{background-color:#F5F5F5;border:1px solid #F5F5F5;cursor:default;text-align:left}
+.selectcolorButton{width:16px;height:10px;border:0px solid transparent;background:transparent;cursor:pointer}
+img{border:0;}
+#footer-tb{width:100%;border-collapse:collapse;}
+#footer-tb strong{color:#2f2f2f;margin:0px 10px;}
+#footer-tb b{font-size:10px;font-family:Arial,sans-serif;}
+#footer-tb a:link{color:#f0f0f0;text-decoration:none}
+#footer-tb a:visited{color:#f0f0f0;text-decoration:none}
+#footer-tb a:hover{color:#ff9000;text-decoration:none}
+#footer-tb a:active{color:#ff9000;text-decoration:none}
+#g-widget{padding:5px 0px 3px 0px;margin:35px 5px 50px 0px;text-align:center;line-height:24px;}
+#nav-details{height:100%;}
+#nav-details td.td-fm{height:100%;}
+#nav-widget{padding-top:1px;height:100%;}
+#nav-widget td{background-color:#f0f0f0;}
+#nav-widget ul{margin:0px;padding:0px;list-style-type:none;}
+#nav-widget li{border-bottom:1px solid #fff;padding:0px;font-size:16px;color:#1f1f1f;}
+#nav-widget li.ce-alt{border-bottom:5px solid #fff;}
+#nav-widget a{display:block;padding:5px 0px 5px 15px;background:url(../images/Arrow-links.png);background-repeat:no-repeat;background-position:center right;transition:all .1s linear;}
+#nav-widget a:hover{background:url(../images/Arrow-mores.png);background-repeat:no-repeat;background-position:center right;background-color:#ed7000;color:#fff;}
+#nav-widget strong{font-weight:normal;font-size:15px;font-family:Arial;padding-right:2px;}
+#nav-widget .link-ed{background:url(../images/icon_blank4963.gif?ver=1.1);padding:8px 0px 8px 15px;}
+#nav-widget .link-ed:hover{background:url(../images/icon_blank4963.gif?ver=1.1) no-repeat center right #ed7000;color:#fff;}
+#kawaDM{position:absolute;background-color:#e6e6e6;border:2px solid #fff;font-size:16px;font-family:微軟正黑體,Arial;z-index:100;box-shadow:1px 1px 3px #333;}
+#kawaDM strong{font-weight:normal;font-size:15px;font-family:Arial;padding-right:2px;}
+#kawaDM a{display:block;text-decoration:none;padding:5px 0px 5px 10px;border-bottom:1px solid #fff;color:#1f1f1f;transition:all .1s linear;}
+#kawaDM a.cc{background:url(../images/more-choice.png) no-repeat center right;}
+#kawaDM a:hover{background-color:#ed7000;color:#f2f2f2;}
+#download-link a{margin:0px 3px 0px 0px;padding:0px 8px 0px 34px;font-size:12px;color:#1881c8;font-weight:bold;line-height:32px;background:url(../images/icon_downs.gif) no-repeat 5px center;display:inline-block;transition:all .1s linear;}
+#download-link a:hover{color:#fff;background-color:#ce7100;}
+.columnsOptionsText{font-size:13px;color:#0f0f0f;font-family:'微軟正黑體',Arial,sans-serif;font-weight:Bold;line-height:16pt;}
+.columnsOptionsLink{font-size:13px;font-family:微軟正黑體,Arial,sans-serif;color:#1f1f1f;line-height:normal}
+.columnsOptionsLink a:link{color:#FFc000;border-bottom:1px dotted #42A9E0}
+.columnsOptionsLink a:visited{color:#FFc000;border-bottom:1px dotted #42A9E0}
+.columnsOptionsLink a:hover{color:#FF9000;border-bottom:1px solid #FF7700}
+.columnsOptionsLink a:active{color:#FF9000;border-bottom:1px solid #CC3300}
+.columnsOptions-head-Labs{width:5%;background:url(Options/labs_head_l4963.gif?ver=1.1) no-repeat top left;}
+.columnsOptions-head-form{background-color:#ce7100;width:90%;vertical-align:top;font-size:11px;color:#ffffff;font-family:'微軟正黑體',Arial,sans-serif;font-weight:Bold;Padding-top:2px;}
+.columnsOptions-head-Labs-e{width:5%;background:url(Options/labs_head_r4963.gif?ver=1.1) no-repeat top right;}
+.columnsOptions-body-Labs{width:5%;background:url(Options/labs_l4963.gif?ver=1.1) no-repeat bottom left;}
+.columnsOptions-body-form{width:95%;background:url(Options/labs_r4963.gif?ver=1.1) no-repeat bottom right;Padding-top:20px;Padding-bottom:20px;}
+p.mb-series{margin:30px 0px 0px 30px;font-size:16px;}
+p.mb-series strong{font-family:Arial,sans-serif;font-size:17.5px;color:#fe7201;}
+p.mb-series b{padding:0px 0px 0px 6px;font-family:Arial,sans-serif;font-size:13px;font-weight:normal;color:#636669;}

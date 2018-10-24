@@ -1,0 +1,32 @@
+.GainsboroGray{display:block}
+.GainsboroGray *{display:block;height:1px;overflow:hidden;Font-size:.01em;background:#EFEFEF}
+.GainsboroGray1{margin-left:3px;margin-right:3px;padding-left:1px;padding-right:1px;border-left:1px solid #F8F8F8;border-right:1px solid #F8F8F8;background:#F3F3F3}
+.GainsboroGray2{margin-left:1px;margin-right:1px;padding-right:1px;padding-left:1px;border-left:1px solid #FDFDFD;border-right:1px solid #FDFDFD;background:#F2F2F2}
+.GainsboroGray3{margin-left:1px;margin-right:1px;border-left:1px solid #F2F2F2;border-right:1px solid #F2F2F2;}
+.GainsboroGray4{border-left:1px solid #F8F8F8;border-right:1px solid #F8F8F8}
+.GainsboroGray5{border-left:1px solid #F3F3F3;border-right:1px solid #F3F3F3}
+.GainsboroGrayTextually{background:#EFEFEF}
+.GainsboroUnGray{display:block}
+.GainsboroUnGray *{display:block;height:1px;overflow:hidden;Font-size:.01em;background:#FFFFFF}
+.GainsboroUnGray1{margin-left:3px;margin-right:3px;padding-left:1px;padding-right:1px;border-left:1px solid #F5F5F5;border-right:1px solid #F5F5F5;background:#FBFBFB}
+.GainsboroUnGray2{margin-left:1px;margin-right:1px;padding-right:1px;padding-left:1px;border-left:1px solid #F0F0F0;border-right:1px solid #F0F0F0;background:#FBFBFB}
+.GainsboroUnGray3{margin-left:1px;margin-right:1px;border-left:1px solid #FBFBFB;border-right:1px solid #FBFBFB;}
+.GainsboroUnGray4{border-left:1px solid #F5F5F5;border-right:1px solid #F5F5F5}
+.GainsboroUnGray5{border-left:1px solid #FBFBFB;border-right:1px solid #FBFBFB}
+.GainsboroUnGrayTextually{background:#FFFFFF}
+.darkSlateGrayRounded{display:block}
+.darkSlateGrayRounded *{display:block;height:1px;overflow:hidden;Font-size:.01em;background:#28766B}
+.darkSlateGrayRounded1{margin-left:3px;margin-right:3px;padding-left:1px;padding-right:1px;border-left:1px solid #a2c4bf;border-right:1px solid #a2c4bf;background:#5d9890}
+.darkSlateGrayRounded2{margin-left:1px;margin-right:1px;padding-right:1px;padding-left:1px;border-left:1px solid #e9f1f0;border-right:1px solid #e9f1f0;background:#509087}
+.darkSlateGrayRounded3{margin-left:1px;margin-right:1px;border-left:1px solid #509087;border-right:1px solid #509087;}
+.darkSlateGrayRounded4{border-left:1px solid #a2c4bf;border-right:1px solid #a2c4bf}
+.darkSlateGrayRounded5{border-left:1px solid #5d9890;border-right:1px solid #5d9890}
+.darkSlateGrayRoundedTextually{background:#28766B}
+.GoogleMaps{display:block}
+.GoogleMaps *{display:block;height:1px;overflow:hidden;font-size:.01em;background:#F2EFE9}
+.GoogleMaps1{margin-left:3px;margin-right:3px;padding-left:1px;padding-right:1px;border-left:1px solid #F9F8F5;border-right:1px solid #F9F8F5;background:#F5F3EE}
+.GoogleMaps2{margin-left:1px;margin-right:1px;padding-right:1px;padding-left:1px;border-left:1px solid #FDFDFC;border-right:1px solid #FDFDFC;background:#F4F2ED}
+.GoogleMaps3{margin-left:1px;margin-right:1px;border-left:1px solid #F4F2ED;border-right:1px solid #F4F2ED;}
+.GoogleMaps4{border-left:1px solid #F9F8F5;border-right:1px solid #F9F8F5}
+.GoogleMaps5{border-left:1px solid #F5F3EE;border-right:1px solid #F5F3EE}
+.GoogleMapsTextually{background:#F2EFE9}

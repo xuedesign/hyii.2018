@@ -1,0 +1,142 @@
+/*
+	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+		THE VERSION 3.2.00209.0010 (2008) WEB THEME Site Glacial Style
+		CREATED BY JANARA
+		Cascading Style Sheet Documents
+		HTTP://WWW.EION.COM.TW/
+	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+*/
+	.selectTbMainStyleOn	{
+				BackGround-COLOR: #FFCC77}
+
+	.selectTbMainStyleOff	{
+				BackGround-COLOR: #000033}
+
+	.selectTableStyleOver	{
+				Cursor: Hand;
+				COLOR: #3F3F3F; 
+				Border-bottom: 1px Solid #297889;
+				Padding-top: 6px;
+				Padding-bottom: 2px;
+				BackGround-COLOR: #FFF7CC;
+				}
+
+	.selectTableStyleOn		{
+				Cursor: default;
+				COLOR: #2F2F2F; 
+				Border-bottom: 1px Solid #297889;
+				Padding-top: 2px;
+				BackGround-COLOR: #FFFFFF;
+				BackGround-image:url('../ShellExt/WebUiMenuOnBackGradient.gif');
+				}
+										
+	.selectTableStyleOff		{
+				Cursor: Hand;
+				COLOR: #5F5F5F; 
+				Border-bottom: 1px Solid #297889;
+				Padding-top: 5px;
+				Padding-bottom: 3px;
+				BackGround-COLOR: #E6F0E6;
+				BackGround-image:url('../ShellExt/WebUiMenuBackGradient.gif');
+				}					
+
+/*
+	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+		for (COMMENT POST IT) ProCalendar Style
+	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+*/
+
+	TD.EmptyDetails
+		{FONT-FAMILY : 微軟正黑體, Arial; 
+		 FONT-SIZE :12px; COLOR:#9F9F9F; 
+		 Background-Color :#FFFFFF; 
+		 Border: #DFDFDF 1px solid;
+		 Padding-top: 5px; Padding-left: 1px; Padding-right: 1px;
+		 Padding-bottom: 10px;
+		 }
+	TD.TodayDetails
+		{FONT-FAMILY : 微軟正黑體, Arial; 
+		 FONT-SIZE :12px; COLOR:#3F3F3F; 
+		 Background-Color :#FFFFFF; 
+		 Border: #FFCC77 2px solid;
+		 Padding-top: 5px; Padding-left: 1px; Padding-right: 1px;
+		 }
+	TD.NotandumDetails	
+		{FONT-FAMILY : 微軟正黑體, Arial; 
+		 FONT-SIZE :12px; COLOR:#3F3F3F; 
+		 Background-Color :#FFFFFF; 
+		 Border: #88BBEE 2px solid;
+		 Padding-top: 5px; Padding-left: 1px; Padding-right: 1px;
+		 Padding-bottom: 10px;
+		 }
+	TD.OutMonth 	
+		{FONT-FAMILY: Arial; 
+		 FONT-SIZE :16px; COLOR:#FFFFFF; 
+		 Background-Color :#DFDFDF; 
+		 Border: #DFDFDF 1px solid;
+		 Padding-top: 5px; Padding-left: 1px; Padding-right: 1px;
+		 }
+	
+	.thisStyleClassOff
+		{FONT-FAMILY : "Trebuchet MS", Verdana; 
+		FONT-STYLE : Italic;
+		FONT-SIZE :22px; 
+		COLOR:#669966; 
+		TEXT-DECORATION: none;
+		Letter-Spacing: -1px;
+		Cursor: Pointer
+		}
+
+	.thisStyleClassOn
+		{FONT-FAMILY : "Trebuchet MS", Verdana; 
+		FONT-STYLE : Italic;
+		FONT-SIZE :22px; 
+		COLOR:#CC3300; 
+		TEXT-DECORATION: none;
+		Letter-Spacing: -1px;
+		Cursor: Pointer
+		}
+
+	.input_AdministratorTextarea	{
+				Font-size: 13px ; Font-Family: 微軟正黑體, Arial, Tahoma, Verdana; 
+				Color: #0F0F0F; 
+				BackGround-Color: #EFEFEF;
+				Border : 1px Solid #BFBFBF;
+				}		
+	/* for Default Administrator backGround Color :3A495C to foreGround Color :FFFFFF */
+	.darkSlateRounded{display:block}darkSlateRounded
+	.darkSlateRounded *{
+	  display:block;
+	  height:1px;
+	  overflow:hidden;
+	  Font-size:.01em;
+	  background:#FFFFFF}
+	.darkSlateRounded1{
+	  margin-left:3px;
+	  margin-right:3px;
+	  padding-left:1px;
+	  padding-right:1px;
+	  border-left:1px solid #8E97A2;
+	  border-right:1px solid #8E97A2;
+	  background:#CDD1D6}
+	.darkSlateRounded2{
+	  margin-left:1px;
+	  margin-right:1px;
+	  padding-right:1px;
+	  padding-left:1px;
+	  border-left:1px solid #4D5B6C;
+	  border-right:1px solid #4D5B6C;
+	  background:#D9DCE0}
+	.darkSlateRounded3{
+	  margin-left:1px;
+	  margin-right:1px;
+	  border-left:1px solid #D9DCE0;
+	  border-right:1px solid #D9DCE0;}
+	.darkSlateRounded4{
+	  border-left:1px solid #8E97A2;
+	  border-right:1px solid #8E97A2}
+	.darkSlateRounded5{
+	  border-left:1px solid #CDD1D6;
+	  border-right:1px solid #CDD1D6}
+	.darkSlateRoundedTextually{
+	  background:#FFFFFF}		
