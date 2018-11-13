@@ -1,24 +1,24 @@
 var BallScrewMenu=[
-'<a href="./?f=Internal-Ball-BallScrew">內循環滾珠螺桿</a>',
-'<a href="indexb270.html?f=External-Ball-BallScrew">外循環滾珠螺桿</a>',
-'<a href="index9f5c.html?f=High-Lead-BallScrew">高導程滾珠螺桿</a>',
-'<a href="indexd2a8.html?f=Heavy-Load-BallScrew">高負荷滾珠螺桿</a>',
-'<a href="indexa766.html?f=End-Deflector-BallScrew">端塞型滾珠螺桿</a>',
-'<a href="index3cd1.html?f=End-Cap-BallScrew">端蓋型滾珠螺桿</a>',
-'<a href="indexa2f6.html?f=Miniature-BallScrew">小珠徑滾珠螺桿</a>',
-'<a href="./?f=BallScrew" class="cc">滾珠螺桿系列</a>']
+'<a href="products/ballscrew/internal-ball.html">內循環滾珠螺桿</a>',
+'<a href="products/ballscrew/external-ball.html">外循環滾珠螺桿</a>',
+'<a href="products/ballscrew/high-lead.html">高導程滾珠螺桿</a>',
+'<a href="products/ballscrew/heavy-load.html">高負荷滾珠螺桿</a>',
+'<a href="products/ballscrew/end-deflector.html">端塞型滾珠螺桿</a>',
+'<a href="products/ballscrew/end-cap.html">端蓋型滾珠螺桿</a>',
+'<a href="products/ballscrew/miniature.html">小珠徑滾珠螺桿</a>',
+'<a href="products/ballscrew/info.html" class="cc">滾珠螺桿系列</a>']
 var ControllerMenu=[
-'<a href="./?f=Rolled-Ballscrews">轉造級滾珠螺桿</a>',
-'<a href="index9ef8.html?f=Low-Noise-BallScrew"><strong>FA</strong>高效靜音滾珠螺桿</a>',
-'<a href="indexcdf2.html?f=Hollow-Cooling-BallScrew">中空冷卻系統</a>',
-'<a href="index30d5.html?f=Ballscrew-Support-Units">滾珠螺桿支撐座</a>']
-var LinearGuidewayMenu=['<a href="./?f=Heavy-Load-Linear-Guideway"><strong>MSA</strong>重負荷型系列</a>',
-'<a href="index53a7.html?f=Compact-Linear-Guideway"><strong>MSB</strong>低組裝型系列</a>',
-'<a href="index04ba.html?f=Full-Roller-Linear-Guideway"><strong>MSR</strong>全滾柱型系列</a>',
-'<a href="index0482.html?f=Miniature-Linear-Guideway"><strong>MSC</strong>微小型系列</a>',
-'<a href="index6edf.html?f=Ball-Chain-Linear-Guideway"><strong>SME</strong>鋼珠鍊帶型系列</a>',
-'<a href="index1c7c.html?f=Roller-Chain-Linear-Guideway"><strong>SMR</strong>滾柱鍊帶型系列</a>',
-'<a href="./?f=Linear-Guideway" class="cc">線性滑軌系列</a>']
+'<a href="products/rolled-ballscrews/info.html">轉造級滾珠螺桿</a>',
+'<a href="products/rolled-ballscrews/low-noise.html"><strong>FA</strong>高效靜音滾珠螺桿</a>',
+'<a href="products/rolled-ballscrews/hollow-cooling.html">中空冷卻系統</a>']
+var LinearGuidewayMenu=[
+'<a href="products/linear-guideway/heavy-load.html"><strong>MSA</strong>重負荷型系列</a>',
+'<a href="products/linear-guideway/compact.html"><strong>MSB</strong>低組裝型系列</a>',
+'<a href="products/linear-guideway/full-roller.html"><strong>MSR</strong>全滾柱型系列</a>',
+'<a href="products/linear-guideway/miniature.html"><strong>MSC</strong>微小型系列</a>',
+'<a href="products/linear-guideway/ball-chain.html"><strong>SME</strong>鋼珠鍊帶型系列</a>',
+'<a href="products/linear-guideway/roller-chainhtml"><strong>SMR</strong>滾柱鍊帶型系列</a>',
+'<a href="products/linear-guideway/info.html" class="cc">線性滑軌系列</a>']
 function changeButtonImage(element,eName){element.src=eName;}
 function PreLoader(imgObj,imgSrc){if(document.images){eval(imgObj+' = new Image()')
 eval(imgObj+'.src = "'+imgSrc+'"')}}
