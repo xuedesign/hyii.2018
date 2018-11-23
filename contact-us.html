@@ -91,17 +91,37 @@
 					</td>
 					<td style="Font-Size: 12px; Padding-top: 5px; Padding-right: 50px" align="center" class="itemBasicLink">
 					    <!--公司位置圖-->
+					    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2163.8651169413165!2d120.65728957744086!3d24.200725506292834!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x34691651dcae1f59%3A0x36e83ee285393334!2zNDA35Y-w5Lit5biC6KW_5bGv5Y2A55Kw5Lit6Lev5LiA5q61MTcwMuiZnw!5e0!3m2!1szh-TW!2stw!4v1542958370548" width="100%" height="150" frameborder="0" style="border:0" allowfullscreen></iframe>
 					</td>
 				</tr>
 			</table>
-			<!-- ( $$ COMPANY CODE$$ ) -->
 		</td></tr>
+		<tr><td style="Padding-top: 15px; padding-left: 95px">
+            <img alt="*" src="images/LineAltDn.gif" width="750" height="10"></td></tr>
 		<tr><td>
-				
 			<table width="100%" border="0" cellpadding="0" cellspacing="0">
 				<tr>
-					<td style="Padding-top: 10px; Padding-left: 10px; Padding-right: 35px">
+					<td>
 					<!--留言表單由此開始-->
+					<link rel="stylesheet" href="StyleLibraries/sendmail.css">
+					<form id="my_form" action="https://formspree.io/hello@xuedesign.tw" method="POST">
+                        <label class="forms_title" for="your-company">公司名稱</label>
+                            <input id="your-company" type="text" name="公司名稱" placeholder="請輸入公司名稱">
+                        <label class="forms_title" for="your-name">姓名</label>
+                            <input id="your-name" type="text" name="姓名" placeholder="如何稱呼">
+                        <label class="forms_title" for="your-phone">聯絡電話</label>
+                            <input id="your-phone" type="tel" name="電話" placeholder="請輸入聯絡電話">
+                        <label class="forms_title" for="your-email">聯絡信箱</label>
+                            <input id="your-email" type="email" name="電子郵件" placeholder="請輸入Email"> 
+                        <label class="forms_title" for="your-address">聯絡地址</label>
+                            <input id="your-address" type="text" name="聯絡地址" placeholder="請輸入公司地址">    
+                        <label class="forms_title" for="your-message">詢問內容</label>
+                            <textarea id="your-message" rows="4" cols="50" name="詢問內容" placeholder="有任何商品諮詢或對鴻翊精密的意見，歡迎留言我們將會儘速與您聯繫" style="font-size:15px"></textarea>
+                        <input class="btn_sent" type="submit" value="送出留言">
+                        <input type="hidden" name="_next" value="thanks.html" />
+                        <input type="hidden" name="_subject" value="【通知】你有一封新的客服來信" />
+                        <!--<input type="hidden" name="_cc" value="hongyi.pc@msa.hinet.net" />-->
+                    </form>
 					</td>
 				</tr>
 			</table>
