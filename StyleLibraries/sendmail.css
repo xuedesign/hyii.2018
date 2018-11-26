@@ -1,10 +1,55 @@
-#my_form{
+#my_form,
+#box_thanks{
     display: block;
-    width: 750px;
-    margin: 15px auto}
+    margin: 15px auto;
+    padding-left: 80px}
+#my_form{ width: 700px;}
+#box_thanks{ width: 650px}
 .forms_title{
     display: block;
     font-size: 15px;
+    font-weight: bold;
     padding: 10px 0}
+#my_form input,
+#my_form textarea{
+    display: block;
+    width: 600px;
+    padding: 8px 10px;
+    margin-bottom: 5px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    border: 1px solid #a3a3a3;
+    font-size: 15px;
+    line-height: 22px}
+#my_form input:focus,
+#my_form textarea:focus{
+    border: 1px solid #1A4C96;
+    /*-webkit-box-shadow: 0 0 10px #1DB7FF;
+    -moz-box-shadow:0 0 10px #1DB7FF;
+    box-shadow: 0 0 10px #1DB7FF*/}
 .btn_sent{
-    display: block}
+    display: block;
+    font-weight: bold;
+    margin-top: 15px;
+    letter-spacing: 2px}
+.btn_sent:hover{
+    color: #fff;
+    background: #1A4C96;
+    cursor: pointer}
+#box_thanks img{
+    display: block;
+    float: left;
+    width: 180px;
+    height: auto;
+    margin: 30px auto}
+#box_thanks h4{
+    display: block;
+    float: right;
+    /*width: 50%;*/
+    margin: 90px 0 0 0;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 1px;
+    line-height: 30px}
