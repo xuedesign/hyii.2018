@@ -2,7 +2,7 @@
 <html>
 
 <head>
-<title>Error404 - 該頁面已不存在</title>
+<title>Error403 - 你沒有權限訪問此頁面</title>
 <meta http-equiv="content-language" content="ZH-TW">
 <meta http-equiv="content-type" content="text/html; charset=BIG5">
 <meta name="robots" content="all">
@@ -20,7 +20,7 @@
 <div id="winNavigationMain"><table width="100%" border="0" cellpadding="0" cellspacing="0" style="height: 100%">
 <tr>
 <td width="50%"></td>
-<td style="backGround-Position: left top; backGround-Image: url(https://www.hyii.com.tw/ShellExt/WebUiBackGradientLeft.gif); backGround-Repeat: repeat-y; backGround-Color: #E5E5E5">
+<td style="backGround-Position: left top; backGround-Image: url(ShellExt/WebUiBackGradientLeft.gif); backGround-Repeat: repeat-y; backGround-Color: #E5E5E5">
 <img border="0" alt="*" src="https://www.hyii.com.tw/ShellExt/WebUiBackGradientLeft.gif" width="10" height="1"></td>
 <td>
 <table class="ui-content" width="100%" border="0" cellpadding="0" cellspacing="0" style="height:100%">
@@ -79,25 +79,25 @@
 <table width="100%" border="0" cellpadding="0" cellspacing="0" style="height: 100%">
 <tr><td style="height: 100%; vertical-align: top; Padding-left: 1px; Padding-right: 1px">
 
-	<table width="100%" border="0" cellpadding="0" cellspacing="0" style="display: block; width: 725px; margin: 30px auto 0">
+	<table width="100%" border="0" cellpadding="0" cellspacing="0">
 	<tr><td style="Padding-top: 3px; Padding-left: 2px; Padding-bottom: 2px">
 		<table width="100%" border="0" cellpadding="0" cellspacing="0">
 		<tr><td style="Font-Size: 13px; Color: #0858A8; Font-Weight: Bold; Line-Height: 15pt">
 		<img alt="*" src="https://www.hyii.com.tw/images/icon_ExceptionDot.gif" width="16" height="16" style="vertical-align: -3px;">
-		Error 404
+		Error 403
 		</td><td align="right" style="Padding-right: 10px" class="itemBasicLink">
 		</td></tr>
 		</table>
 	</td></tr>
 	<tr><td style="Padding: 1px">
 		<table width="100%" border="0" cellpadding="0" cellspacing="0">
-		<tr><td backGround="https://www.hyii.com.tw/images/dotlineH.gif"><img border="0" alt="*" src="https://www.hyii.com.tw/images/icon_blank.gif" width="1" height="1"></td></tr>
+		<tr><td backGround="images/dotlineH.gif"><img border="0" alt="*" src="https://www.hyii.com.tw/images/icon_blank.gif" width="1" height="1"></td></tr>
 		</table>
 	</td></tr>
-	<tr><td>
-	    <img border="0" alt="*" src="https://www.hyii.com.tw/images/img-404.jpg" width="725" height="200" Align="absMiddle"> 
-        <h2 style="font-size: 25px; color:#1d7d9d">哎呀!出錯啦</h2>
-        <h3 style="line-height: 25px">伺服器無法找到您要求的網址，有可能是您輸入的網址錯誤，或是該網頁已不存在。<br>你可以嘗試重新輸入網址或利用上方選單進行瀏覽。<br>如有其他問題，請聯絡網站管理員，謝謝。</h3>		
+	<tr><td style="Padding-top: 15px; Padding-left: 20px; Padding-right: 20px">
+	    <img border="0" alt="*" src="https://www.hyii.com.tw/images/img-403.jpg" width="725" height="200" Align="absMiddle"> 
+        <h2 style="font-size: 25px; color:#1d7d9d">噢喔!你走錯地方囉</h2>
+        <h3 style="line-height: 25px">你沒有權限訪問此頁面，請點選其他頁面繼續瀏覽<br>如有其他問題，請聯絡網站管理員，謝謝。</h3>	
 	</td></tr>
 	<tr><td>
 	&nbsp;
@@ -177,7 +177,7 @@
 <td><img src="https://www.hyii.com.tw/images/icon_blank.gif" alt="*" width="980" height="1"></td></tr>
 </table>
 </td>
-<td style="backGround-Position: left top; backGround-Image: url(https://www.hyii.com.tw/ShellExt/WebUiBackGradientRight.gif); backGround-Repeat: repeat-y; backGround-Color: #E5E5E5">
+<td style="backGround-Position: left top; backGround-Image: url(ShellExt/WebUiBackGradientRight.gif); backGround-Repeat: repeat-y; backGround-Color: #E5E5E5">
 <img border="0" alt="*" src="https://www.hyii.com.tw/ShellExt/WebUiBackGradientRight.gif" width="10" height="1"></td><td width="50%"></td></tr></table></div>
 </body>
 </html>
