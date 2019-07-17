@@ -18,6 +18,7 @@ var LinearGuidewayMenu=[
 '<a href="products/linear-guideway/miniature.html"><strong>MSC</strong>微小型系列</a>',
 '<a href="products/linear-guideway/ball-chain.html"><strong>SME</strong>鋼珠鍊帶型系列</a>',
 '<a href="products/linear-guideway/roller-chainhtml"><strong>SMR</strong>滾柱鍊帶型系列</a>',
+'<a href="products/linear-guideway/lubricating-linear-guideway.html"><strong>SL</strong>潤滑裝置系列</a>',    
 '<a href="products/linear-guideway/info.html" class="cc">線性滑軌系列</a>']
 function changeButtonImage(element,eName){element.src=eName;}
 function PreLoader(imgObj,imgSrc){if(document.images){eval(imgObj+' = new Image()')
