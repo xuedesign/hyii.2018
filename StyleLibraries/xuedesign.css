@@ -6,3 +6,8 @@
 * @version    v1.0 - 201907
 *
 **/
+
+#box_plist{}
+#box_plist h4{}
+#box_plist h4::before{}
+#box_plist img{}
