@@ -7,7 +7,22 @@
 *
 **/
 
-#box_plist{}
-#box_plist h4{}
-#box_plist h4::before{}
-#box_plist img{}
+#box_plist a{
+    display: block;
+    padding-bottom: 30px;
+    border-bottom: 1px solid #e1e1e1}
+#box_plist h4{
+    font-size: 15px;
+    font-weight: normal}
+#box_plist h4 span{
+    font-weight: bold;
+    color:#fe7201}
+#box_plist h4::before{
+    content: "";
+    display: inline-block;
+    width: 17px;
+    height: 15px;
+    background: url(../images/icon_BoxDot.gif) no-repeat;
+    background-position: 0 2px;
+    vertical-align: top;
+    margin: 0 8px 0 0}
