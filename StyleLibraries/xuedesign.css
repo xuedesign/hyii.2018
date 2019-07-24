@@ -26,3 +26,34 @@
     background-position: 0 2px;
     vertical-align: top;
     margin: 0 8px 0 0}
+
+#box_subplist{
+    display: block;
+    width: 95%;
+    margin: 10px auto}
+#box_subplist h5{
+    display: block;
+    width: 100%;
+    padding: 5px 15px;
+    font-size: 16px;
+    line-height: 30px;
+    background: #e1e1e1;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+         border-radius: 8px}
+#box_subplist ul{
+    display: block;
+    width: 100%;
+    margin: 0;
+    padding: 0}
+#box_subplist li{
+    display: inline-block;
+    width: 20%;
+    margin: 2%;
+    list-style: none
+}
+#box_subplist img{}
+#box_subplist p{
+    font-size: 15px;
+    text-align: center
+}

@@ -60,21 +60,27 @@ img{border:0;}
 #g-widget{padding:5px 0px 3px 0px;margin:35px 5px 50px 0px;text-align:center;line-height:24px;}
 #nav-details{height:100%;}
 #nav-details td.td-fm{height:100%;}
+
+/*???*/
 #nav-widget{padding-top:1px;height:100%;}
 #nav-widget td{background-color:#f0f0f0;}
 #nav-widget ul{margin:0px;padding:0px;list-style-type:none;}
-#nav-widget li{border-bottom:1px solid #fff;padding:0px;font-size:16px;color:#1f1f1f;}
+#nav-widget li{border-bottom:1px solid #fff;padding:0px;font-size:18px;color:#1f1f1f;}
 #nav-widget li.ce-alt{border-bottom:5px solid #fff;}
 #nav-widget a{display:block;padding:5px 0px 5px 15px;background:url(../images/Arrow-links.png);background-repeat:no-repeat;background-position:center right;transition:all .1s linear;}
 #nav-widget a:hover{background:url(../images/Arrow-mores.png);background-repeat:no-repeat;background-position:center right;background-color:#ed7000;color:#fff;}
-#nav-widget strong{font-weight:normal;font-size:15px;font-family:Arial;padding-right:2px;}
+#nav-widget strong{font-weight:normal;font-size:18px;font-family:Arial;padding-right:2px;}
 #nav-widget .link-ed{background:url(../images/icon_blank4963.gif?ver=1.1);padding:8px 0px 8px 15px;}
 #nav-widget .link-ed:hover{background:url(../images/icon_blank4963.gif?ver=1.1) no-repeat center right #ed7000;color:#fff;}
-#kawaDM{position:absolute;background-color:#e6e6e6;border:2px solid #fff;font-size:16px;font-family:微軟正黑體,Arial;z-index:100;box-shadow:1px 1px 3px #333;}
+
+/*???*/
+#kawaDM{position:absolute;background-color:#e6e6e6;border:2px solid #fff;font-size:18px;font-family:微軟正黑體,Arial;z-index:100;box-shadow:1px 1px 3px #333;}
 #kawaDM strong{font-weight:normal;font-size:15px;font-family:Arial;padding-right:2px;}
 #kawaDM a{display:block;text-decoration:none;padding:5px 0px 5px 10px;border-bottom:1px solid #fff;color:#1f1f1f;transition:all .1s linear;}
 #kawaDM a.cc{background:url(../images/more-choice.png) no-repeat center right;}
 #kawaDM a:hover{background-color:#ed7000;color:#f2f2f2;}
+
+
 #download-link a{margin:0px 3px 0px 0px;padding:0px 8px 0px 34px;font-size:12px;color:#1881c8;font-weight:bold;line-height:32px;background:url(../images/icon_downs.gif) no-repeat 5px center;display:inline-block;transition:all .1s linear;}
 #download-link a:hover{color:#fff;background-color:#ce7100;}
 .columnsOptionsText{font-size:13px;color:#0f0f0f;font-family:'微軟正黑體',Arial,sans-serif;font-weight:Bold;line-height:16pt;}
