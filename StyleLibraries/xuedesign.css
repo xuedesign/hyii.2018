@@ -34,9 +34,11 @@
 #box_subplist h5{
     display: block;
     width: 100%;
+    margin: 0;
     padding: 5px 15px;
-    font-size: 16px;
+    font-size: 18px;
     line-height: 30px;
+    letter-spacing: 1px;
     background: #e1e1e1;
     -webkit-border-radius: 8px;
     -moz-border-radius: 8px;
@@ -48,12 +50,13 @@
     padding: 0}
 #box_subplist li{
     display: inline-block;
-    width: 20%;
-    margin: 2%;
-    list-style: none
-}
-#box_subplist img{}
+    width: 15.5%;
+    margin: 2% 2% 0;
+    list-style: none}
+#box_subplist li img{
+    display: block;
+    width: 100%;
+    height: auto}
 #box_subplist p{
     font-size: 15px;
-    text-align: center
-}
+    text-align: center}
