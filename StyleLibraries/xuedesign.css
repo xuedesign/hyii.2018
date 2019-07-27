@@ -60,6 +60,9 @@
 #box_subplist p{
     font-size: 15px;
     text-align: center}
+#box_subplist .info{
+    font-size: 13px;
+    text-align: left}
 #btn_back{
     display: block;
     width: 150px;
@@ -75,3 +78,40 @@
          border-radius: 8px}
 #btn_back:hover{
     color: #fe7201}
+
+#myTable{
+    display: block;
+    width: 100%;
+    border-collapse: collapse; 
+    border-spacing: 0}
+#myTable tr{}
+#myTable th{
+    font-size: 15px;
+    font-weight: bold;
+    border: 1px solid #e1e1e1;
+    padding: 8px;
+    background: #ebebeb}
+#myTable th span,
+#myTable td span{ font-size: 12px}
+#myTable td{
+    width: 200px;
+    height: 30px;
+    padding: 8px;
+    border: 1px solid #e1e1e1;
+    font-size: 13px;
+    font-weight: bold;
+    text-align: center}
+.slash{
+    position:relative;
+    width:50px;
+    height:50px;
+    box-sizing:border-box;
+    line-height:20px;
+    background: linear-gradient(25deg, transparent 49.5%, #212121 49.5%, transparent 50.5%, transparent 50.5%)}
+.slash01{
+    position: absolute;
+    top: -50px}
+.slash02{
+    position: absolute;
+    top: -25px;
+    left: 50px}
