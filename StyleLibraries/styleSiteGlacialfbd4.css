@@ -73,6 +73,14 @@ img{border:0;}
 #nav-widget .link-ed{background:url(../images/icon_blank4963.gif?ver=1.1);padding:8px 0px 8px 15px;}
 #nav-widget .link-ed:hover{background:url(../images/icon_blank4963.gif?ver=1.1) no-repeat center right #ed7000;color:#fff;}
 
+#nav-widget .link-highlight{
+    display:block;
+    background:url(../images/Arrow-mores.png);
+    background-repeat:no-repeat;
+    background-position:center right;
+    background-color:#ed7000;
+    color:#fff}
+
 /*???*/
 #kawaDM{position:absolute;background-color:#e6e6e6;border:2px solid #fff;font-size:18px;font-family:·L³n¥¿¶ÂÅé,Arial;z-index:100;box-shadow:1px 1px 3px #333;}
 #kawaDM strong{font-weight:normal;font-size:15px;font-family:Arial;padding-right:2px;}

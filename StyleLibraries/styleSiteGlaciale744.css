@@ -68,10 +68,19 @@ img{border:0;}
 #nav-widget li{border-bottom:1px solid #fff;padding:0px;font-size:18px;color:#1f1f1f;}
 #nav-widget li.ce-alt{border-bottom:5px solid #fff;}
 #nav-widget a{display:block;padding:5px 0px 5px 15px;background:url(../images/Arrow-links.png);background-repeat:no-repeat;background-position:center right;transition:all .1s linear;}
-#nav-widget a:hover{background:url(../images/Arrow-mores.png);background-repeat:no-repeat;background-position:center right;background-color:#ed7000;color:#fff;}
+#nav-widget a:hover,
+#nav-widget #link-highlight{background:url(../images/Arrow-mores.png);background-repeat:no-repeat;background-position:center right;background-color:#ed7000;color:#fff;}
 #nav-widget strong{font-weight:normal;font-size:15px;font-family:Arial;padding-right:2px;}
 #nav-widget .link-ed{background:url(../images/icon_blank4963.gif?ver=1.1);padding:8px 0px 8px 15px;}
 #nav-widget .link-ed:hover{background:url(../images/icon_blank4963.gif?ver=1.1) no-repeat center right #ed7000;color:#fff;}
+
+#nav-widget .link-highlight{
+    display:block;
+    background:url(../images/Arrow-mores.png);
+    background-repeat:no-repeat;
+    background-position:center right;
+    background-color:#ed7000;
+    color:#fff}
 
 
 /*???*/
