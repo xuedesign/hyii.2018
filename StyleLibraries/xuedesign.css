@@ -124,12 +124,28 @@
 }
 #list-ballscrews ul{
     padding: 0;
-    margin: 0;
-    text-align: center
+    margin: 0
 }
 #list-ballscrews li{
     display: inline-block;
     width: 32%;
     margin-bottom: 20px
+}
+#list-ballscrews p{
+    text-align: center;
+    line-height: 15px;
+}
+#list-ballscrews a{
+    letter-spacing: 1px;
+    text-decoration: none;
+}
+#list-ballscrews a:hover{
+    font-weight: bold;
+    text-decoration: underline;
+    color: #f50
+}
+#list-ballscrews a:visited{
+   text-decoration: none;
+    color: #656565
 }
 
